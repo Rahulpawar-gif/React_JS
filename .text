@@ -1,6 +1,6 @@
-GitHub Commands -:
+GitHub_Commands -:
 1.git init
-2.git remote add origin https://github.com/rahulpawar/AI_Fullstack_Cohort 
+2.git remote add origin https://github.com/riteshjarhad/AI_Fullstack_Cohort 
 3.git add .
 4.git commit -m "initial commit"
 5.git push -u origin master
